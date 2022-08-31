@@ -16,3 +16,5 @@ user page -> home page -> search page -> payment page -> payment confirmation
 * Further analyse conversion at each stage of the funnel, in order to identify areas of improvements.
 * A full picture of funnel conversion rate for both desktop and mobile
 * Some insights on what the product team should focus on in order to improve conversion rate
+
+For full visualization: https://nbviewer.org/github/AngelaWStats/Data-Science-Projects-in-Python/blob/main/Funnel%20Analysis%20of%20E-commerce%20Website.ipynb
